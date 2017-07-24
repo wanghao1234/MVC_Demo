@@ -1,0 +1,9 @@
+package com.company.action;
+
+public class SVNDemo {
+	public static void main(String[] args) {
+		System.out.println("init");
+		System.out.println("****************************in C workspace***************");
+		System.out.println("hello world!");
+	}
+}
